@@ -1,5 +1,7 @@
 # alde-windows
 
+Main repository can be found at https://gitlab.com/autolife/development/environments/alde-windows
+
 Set up a basic windows development environment with WSL.
 
 ## Install
